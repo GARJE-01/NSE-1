@@ -1043,4 +1043,4 @@ The call is blocked by an API gateway, which is a WAF that verifies authenticati
 | Security Fabric, segmentation, sandbox, SD-WAN and SASE, ZTNA | [Module 6](Module-06-README.md#43-fortinet-security-fabric): [segmentation](Module-06-README.md#51-what-is-network-segmentation), [sandbox](Module-06-README.md#lesson-9-sandbox), [SD-WAN vs SASE](Module-06-README.md#13-sd-wan-vs-sase) |
 | SSO, SAML, OAuth, LDAP, least privilege | [Module 7](Module-07-README.md#lesson-3-single-sign-on) and [least privilege](Module-07-README.md#66-least-privilege-and-zero-trust) |
 | EDR, SOC, patching, backups | [Module 8](Module-08-README.md#44-edr-and-ioc) |
-| DLP, SEG, WAF, XSS, proxies, data destruction | [Module 9](Module-09-README.md#lesson-5-web-application-firewall) |
+| DLP, SEG, WAF, XSS, proxies, data destruction | [Module 9](Module-09-README.md#lesson-5-web-application-firewall) | 
