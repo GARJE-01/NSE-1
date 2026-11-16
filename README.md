@@ -1,14 +1,28 @@
-# 🛡️ NSE 1 Notes
+<div align="center">
 
-**Beginner-friendly study notes for Fortinet NSE 1 (Network Security Associate).**
+# 🛡️ Fortinet NSE 1 — Cybersecurity Notes
 
-These are my personal notes for all **10 modules** of the course. Each module is written in plain, simple language with real-world examples, diagrams, comparison tables, quick revision sections, and practice questions with hidden answers, so you can learn the topic and then test yourself.
+**A beginner-friendly learning and revision guide covering all 10 modules.**
+
+[![GitHub stars](https://img.shields.io/github/stars/GARJE-01/NSE-1-Notes?style=for-the-badge&logo=github)](https://github.com/GARJE-01/NSE-1-Notes/stargazers)
+[![GitHub last commit](https://img.shields.io/github/last-commit/GARJE-01/NSE-1-Notes?style=for-the-badge)](https://github.com/GARJE-01/NSE-1-Notes/commits/main)
+[![GitHub repo size](https://img.shields.io/github/repo-size/GARJE-01/NSE-1-Notes?style=for-the-badge)](https://github.com/GARJE-01/NSE-1-Notes)
+
+*Simple explanations • Real-world examples • Diagrams • Quick revision • Knowledge checks*
+
+</div>
+
+---
+
+These are my personal notes for all **10 modules** of the Fortinet NSE 1 course. Each module is explained in plain language and includes examples, diagrams, comparison tables, quick-revision sections, and practice questions with expandable answers.
+
+> **Start here:** Follow the [Course Roadmap](#-course-roadmap), then open each module from [Modules at a Glance](#-modules-at-a-glance).
 
 ---
 
 ## 📚 Index
 
-- [🚀 How to Use These Notes](#-how-to-use-these-notes)
+- [🏅 My Certification](#-my-certification)\n- [🚀 How to Use These Notes](#-how-to-use-these-notes)
 - [🧭 Course Roadmap](#-course-roadmap)
 - [📖 Modules at a Glance](#-modules-at-a-glance)
 - [📘 Module Details](#-module-details)
@@ -27,6 +41,37 @@ These are my personal notes for all **10 modules** of the course. Each module is
 - [🎯 Suggested Study Plan](#-suggested-study-plan)
 - [🔖 Symbols Used in the Notes](#-symbols-used-in-the-notes)
 - [📁 Repository Structure](#-repository-structure)
+
+---
+
+## 🏅 My Certification
+
+<div align="center">
+
+### Fortinet NSE 1 Certified in Cybersecurity
+
+**Achievement date:** November 16, 2026  
+**Valid until:** November 16, 2028
+
+<a href="Fortinet%20NSE%201%20Certified%20in%20Cybersecurity.pdf">
+  <img src="assets/fortinet-nse-1-certificate.png" alt="Fortinet NSE 1 Certified in Cybersecurity certificate" width="850">
+</a>
+
+**[📄 View or download the original certificate (PDF)](Fortinet%20NSE%201%20Certified%20in%20Cybersecurity.pdf)**
+
+</div>
+
+<details>
+<summary>🔎 Certificate verification details</summary>
+
+- **Certification:** Fortinet NSE 1 Certified in Cybersecurity
+- **Certificate holder:** Mayur Garje
+- **Validation number:** `4904718176MG`
+- **Verification portal:** [Fortinet Training Institute — Certificate Verification](https://training.fortinet.com/admin/tool/certificate/index.php)
+
+</details>
+
+> The image above is a convenient preview. The linked PDF is the original certificate and should be used when an official document is required.
 
 ---
 
@@ -58,6 +103,18 @@ The course moves in three stages:
 | 🧱 **Foundations and threats** | 1 to 4 | What security is, who attacks, how they attack, and the malware they use |
 | 🔐 **Protection building blocks** | 5 to 7 | Cryptography, secure networks, and who gets access to what |
 | 🏢 **Securing the environment** | 8 to 10 | Endpoints, data and applications, and the cloud |
+
+---
+
+## ⚡ Quick Navigation
+
+| Need to... | Go to |
+|---|---|
+| Understand how to use this repository | [How to Use These Notes](#-how-to-use-these-notes) |
+| Browse all 10 modules | [Modules at a Glance](#-modules-at-a-glance) |
+| Revise important terminology | [Key Terms Cheat Sheet](#-key-terms-cheat-sheet) |
+| Follow a suggested learning schedule | [Suggested Study Plan](#-suggested-study-plan) |
+| See how topics connect | [How the Modules Connect](#-how-the-modules-connect) |
 
 ---
 
@@ -367,3 +424,20 @@ NSE-1-Notes/
 ---
 
 ⭐ If these notes help you, consider giving the repository a star.
+
+---
+
+## 🤝 Use and Share
+
+These notes are intended to make cybersecurity concepts easier to understand and revise.
+
+- Browse the module files directly from the [`modules/`](modules/) folder.
+- Use the expandable knowledge-check answers to test your understanding.
+- If you spot an issue or have a helpful improvement, feel free to open an issue or pull request.
+
+<div align="center">
+
+**If this repository helps you learn, consider giving it a ⭐**
+
+</div>
+\n
