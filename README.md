@@ -22,8 +22,10 @@ These are my personal notes for all **10 modules** of the Fortinet NSE 1 course.
 
 ## 📚 Index
 
-- [🏅 My Certification](#-my-certification)\n- [🚀 How to Use These Notes](#-how-to-use-these-notes)
+- [🏅 My Certification](#-my-certification)
+- [🚀 How to Use These Notes](#-how-to-use-these-notes)
 - [🧭 Course Roadmap](#-course-roadmap)
+- [⚡ Quick Navigation](#-quick-navigation)
 - [📖 Modules at a Glance](#-modules-at-a-glance)
 - [📘 Module Details](#-module-details)
   - [Module 1: Introduction to Cybersecurity](#module-1-introduction-to-cybersecurity)
@@ -41,6 +43,7 @@ These are my personal notes for all **10 modules** of the Fortinet NSE 1 course.
 - [🎯 Suggested Study Plan](#-suggested-study-plan)
 - [🔖 Symbols Used in the Notes](#-symbols-used-in-the-notes)
 - [📁 Repository Structure](#-repository-structure)
+- [🤝 Use and Share](#-use-and-share)
 
 ---
 
@@ -408,22 +411,27 @@ Diagrams are written in **Mermaid**, which GitHub renders automatically. Knowled
 ```text
 NSE-1-Notes/
 ├── README.md
+├── Fortinet NSE 1 Certified in Cybersecurity.pdf
+├── assets/
+│   └── fortinet-nse-1-certificate.png
 └── modules/
-    ├── Module-01-README.md   Introduction to Cybersecurity
-    ├── Module-02-README.md   The Threat Landscape
-    ├── Module-03-README.md   Social Engineering
-    ├── Module-04-README.md   Malware
-    ├── Module-05-README.md   Cryptography and the Public Key Infrastructure
-    ├── Module-06-README.md   Secure Network
-    ├── Module-07-README.md   Authentication and Access Control
-    ├── Module-08-README.md   Endpoint Security
-    ├── Module-09-README.md   Secure Data and Applications
-    └── Module-10-README.md   Cloud Security and Virtualization
+    ├── Module-01-README.md    Introduction to Cybersecurity
+    ├── Module-02-README.md    The Threat Landscape
+    ├── Module-03-README.md    Social Engineering
+    ├── Module-04-README.md    Malware
+    ├── Module-05-README.md    Cryptography and the Public Key Infrastructure
+    ├── Module-06-README.md    Secure Network
+    ├── Module-07-README.md    Authentication and Access Control
+    ├── Module-08-README.md    Endpoint Security
+    ├── Module-09-README.md    Secure Data and Applications
+    └── Module-10-README.md    Cloud Security and Virtualization
 ```
 
----
-
-⭐ If these notes help you, consider giving the repository a star.
+| Path | Contents |
+|------|----------|
+| [`modules/`](modules/) | The 10 module notes, one README per module |
+| [`assets/`](assets/) | Images used in this README |
+| `Fortinet NSE 1 Certified in Cybersecurity.pdf` | Original certification document |
 
 ---
 
@@ -440,4 +448,3 @@ These notes are intended to make cybersecurity concepts easier to understand and
 **If this repository helps you learn, consider giving it a ⭐**
 
 </div>
-\n
